@@ -229,7 +229,7 @@ if __name__ == '__main__':
     config_path = os.path.join(local_dir, 'config.txt')
 
     # Check if a checkpoint exists
-    checkpoint_file = 'neat-checkpoint-0'
+    checkpoint_file = 'neat-checkpoint-26'
     checkpoint_path = os.path.join(local_dir, checkpoint_file)
 
     print(f"Current working directory: {os.getcwd()}")
